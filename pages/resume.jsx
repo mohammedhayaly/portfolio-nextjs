@@ -6,7 +6,7 @@ const resume = () => {
   return (
     <>
       <Head>
-        <title>Clint | Resume</title>
+        <title>Mohammed | Resume</title>
         <meta
           name='description'
           content='I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences.'
@@ -17,10 +17,10 @@ const resume = () => {
       <div className='max-w-[940px] mx-auto p-2 pt-[120px]'>
         <h2 className='text-center'>Resume</h2>
         <div className='bg-[#d0d4d6] my-4 p-4 w-full flex justify-between items-center'>
-          <h2 className='text-center'>Clint Briley</h2>
+          <h2 className='text-center text-[#d24f4f]'>Mohammed Hayaly</h2>
           <div className='flex'>
             <a
-              href='https://www.linkedin.com/in/clint-briley-50056920a/'
+              href='https://www.linkedin.com/in/mohammed-hayaly-74baaa270/'
               target='_blank'
               rel='noreferrer'
             >
@@ -71,18 +71,12 @@ const resume = () => {
             <span className='px-2'>|</span>Javascript
             <span className='px-2'>|</span>React
             <span className='px-2'>|</span>Next JS
-            <span className='px-2'>|</span>SQL
-            <span className='px-2'>|</span>NoSQL
             <span className='px-2'>|</span>Redux
             <span className='px-2'>|</span>Tailwind
             <span className='px-2'>|</span> Firebase
             <span className='px-2'>|</span> RESTAPI
           </p>
-          <p className='py-2'>
-            <span className='font-bold'>Amazon Web Services</span>
-            <span className='px-2'>|</span>Amazon Web Services Cloud
-            Practitioner
-          </p>
+         
         </div>
 
         <h5 className='text-center underline text-[18px] py-4'>

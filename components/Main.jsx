@@ -22,7 +22,7 @@ const Main = () => {
               alt='/'
               width='300'
               height='300'
-              className=' rounded-full '
+              className=' rounded-full  '
             />
           </a>
         </Link>
@@ -32,7 +32,7 @@ const Main = () => {
           <h1 className='py-4 text-gray-700'>
             <span className='text-[#36D6E7]'> Mohammed Hayaly</span>
           </h1>
-          <h1 className='py-2 text-gray-700'>A Front-End Web Developer</h1>
+          <h1 className='py-2 text-gray-700'> Front-End Web Developer</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
             I’m focused on building responsive front-end web applications
             integrating back-end technologies.

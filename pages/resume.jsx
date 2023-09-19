@@ -70,8 +70,8 @@ const resume = () => {
         <div className='text-center py-4'>
           <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
           <p className='py-2'>
-            <span className='font-bold'>Technical Skills</span>
-            <span className='px-2'>|</span>Front-End Web Developer
+            <span className='font-bold'>Technical Skills</span> 
+            <span className='px-2'>|</span>Front-End Web Developer 
             <span className='px-2'>|</span> Next JS
             <span className='px-2'>|</span> React
             <span className='px-2'>|</span>Javascript
@@ -82,7 +82,6 @@ const resume = () => {
             <span className='px-2'>|</span> CSS
             <span className='px-2'>|</span> RESTAPI
             <span className='px-2'>|</span> Adaptability
-            <span className='px-2'>|</span> Leadership
             <span className='px-2'>|</span> Pestel analysis
             <span className='px-2'>|</span> Swot analysis
             <span className='px-2'>|</span> Tows matrix
